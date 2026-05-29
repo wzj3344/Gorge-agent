@@ -22,8 +22,8 @@
 │       └── 📄 train_workflow.py  
 │   ├── 📄 __init__.py  
 │   └── 📄 agent.py  
-├── 📂 conf
-│   ├── 📄 __init__.py
-│   ├── 📄 configure_app.toml
-├── 📂 log
-└── 📄 train_test.py
+├── 📂 conf   
+│   ├── 📄 __init__.py  
+│   ├── 📄 configure_app.toml  
+├── 📂 log  
+└── 📄 train_test.py  
